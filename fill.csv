@@ -1,7 +1,7 @@
 Format is tab separated preferences.
 Diaphragm Period (layers):	999999
 Diaphragm Thickness (layers):	0
-Extra Shells on Alternating Solid Layer (layers):	1
+Extra Shells on Alternating Solid Layer (layers):	4
 Extra Shells on Base (layers):	1
 Extra Shells on Sparse Layer (layers):	1
 Grid Extra Overlap (ratio):	0.001
@@ -18,5 +18,5 @@ Grid Rectangular	True
 Line	False
 Interior Infill Density over Exterior Density (ratio):	0.9
 Outside Extruded First	True
-Solid Surface Thickness (layers):	1
+Solid Surface Thickness (layers):	3
 windowPositionBehold Preferences	0+0
