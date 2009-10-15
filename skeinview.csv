@@ -1,7 +1,6 @@
 Format is tab separated preferences.
 Activate Skeinview	True
 Draw Arrows	True
-Open File to Skeinview	/Users/jmil/G3_Documents/MakerBot/PrintMe!/Shotglass_Minimug_jmilRotated_export.gcode
 Go Around Extruder Off Travel	False
 Pixels over Extrusion Width (ratio):	10.0
 Screen Horizontal Inset (pixels):	100
