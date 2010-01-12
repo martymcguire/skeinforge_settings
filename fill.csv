@@ -16,7 +16,7 @@ Infill Odd Layer Extra Rotation (degrees):	90.0
 Grid Hexagonal	True
 Grid Rectangular	False
 Line	False
-Interior Infill Density over Exterior Density (ratio):	0.95
+Interior Infill Density over Exterior Density (ratio):	1.0
 Outside Extruded First	True
 Solid Surface Thickness (layers):	3
 windowPositionBehold Preferences	0+0
