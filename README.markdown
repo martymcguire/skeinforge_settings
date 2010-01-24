@@ -11,14 +11,18 @@ between machines.
 Installation
 ------------
 
-Clone this repository into your home directory:
+Clone this repository as `.skeinforge` into your home directory. Make sure to
+delete any existing `.skeinforge` directory, first.
 
     $ cd ~
-    $ rm -rf .skeinforge
     $ git clone git://github.com/martymcguire/skeinforge_settings.git .skeinforge
 
-Copy `start.txt` and `end.txt` to the `skeinforge_tools/` directory of your 
-skeinforge installation.
+To track all of the actual settings branches, run `track_branches.sh`
+
+    $ ./track_branches.sh
+
+Finally, copy `start.txt` and `end.txt` to the `skeinforge_tools/` directory 
+of your skeinforge installation.
 
 Usage
 -----
